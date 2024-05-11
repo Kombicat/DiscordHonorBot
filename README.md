@@ -1,7 +1,3 @@
-### INF601 - Advanced Programming in Python
-### Jackson Reed
-### Final Project
-
 ## Description
 
 Discord Honor Bot is a multifunction bot that has many different features, varying from fun to quality of life utilities. 
